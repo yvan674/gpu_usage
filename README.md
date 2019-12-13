@@ -1,6 +1,8 @@
 # GPU Usage
 Graphically shows GPU usage through the use of line and bar plots on a given machine.
 
+![Screenshot of GPU Usage in use](../screenshot.png)
+
 ## Usage:
 Simply run `gpu_usage.py` using python
 
