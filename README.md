@@ -17,3 +17,6 @@ For example,
 ```bash
 python gpu_usage.py -i 0.3  # Set update interval to every 0.3 seconds
 ```
+
+## Attributions
+This work uses code from [asciichartpy](https://pypi.org/project/asciichartpy/), licensed under the MIT license.
